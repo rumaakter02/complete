@@ -1,0 +1,185 @@
+body{
+    background: url(./bg_main.gif)center;
+}
+.cont{
+    width: 996px;
+    margin: 0 auto;
+}
+.topbar{
+    background: rgb(175, 37, 209);
+    height: 30px;
+    font-size: 13px;
+    line-height: 25px;
+    color: white;
+    border-bottom: 2px solid red;
+}
+.topbar_right p{
+    display: inline-block;
+    border-right: 1px solid #ddd;
+    padding-right: 10px;
+    margin-right: 10px;
+}
+.topbar_right a{
+    color: white;
+}
+.logo{
+    height: 110px;
+}
+.logo_left{
+    line-height: 110px;
+}
+.logo_search{
+    padding-top: 55px;
+}
+form input{
+    width: 78%;
+    border: 1px solid #DDD;
+    font-size: 13px;
+    border-radius: 3px;
+    padding: 5px;
+}
+form button{
+    border: 1px solid #ddd;
+    font-size: 13px;
+    background: #ddd;
+    border-radius: 3px;
+}
+.logo1{
+    border-right: 1px solid #ddd;
+    height: 30px;
+    padding-right: 10px;
+    margin-right: 10px;
+    position: relative;
+    top: 45%;
+}
+.logo2 a{
+    position: relative;
+    top: 20%;
+}
+.logo2 p{
+    font-size: 11px;
+    position: relative;
+    top: 35%;
+    color: rgb(123, 36, 204);
+    font-weight: bold;
+}
+.nav ul li{
+    background: #ddd;
+}
+.navbar ul li a{
+    border-right: 1px solid #ddd;
+    font-size: 14px;
+}
+.navbar ul li a:hover{
+    background: rgb(231, 79, 49);
+   
+}
+/* body start */
+.banner{
+    border: 2px solid red;
+    padding: 10px;
+}
+.tab{
+    padding-left: 10px;
+    font-size: 15px;
+}
+.tab ul li button:hover{
+    background: #ddd;
+}
+.tab1{
+    padding: 10px;
+    margin: 10px;
+}
+.tab1 h4{
+    font-size: 15px;
+    color: rgb(123, 36, 204);
+    font-weight: bold;
+}
+.tab1 ul{
+    list-style: none;
+}
+.tab1 ul li a{
+    text-decoration: none;
+    color: rgb(81, 73, 73);
+    font-size: 12px;
+    padding-bottom: 2px;
+    border-bottom: 1px solid green;
+}
+.list{
+    padding: 10px;
+    margin: 10px;
+}
+.list h4{
+    font-size: 15px;
+    color: rgb(123, 36, 204);
+    font-weight: bold;
+}
+.list ul{
+    list-style: none;
+}
+.list ul li a{
+    text-decoration: none;
+    color: rgb(81, 73, 73);
+    font-size: 12px;
+    padding-bottom: 2px;
+    border-bottom: 1px solid green;
+}
+.list ul li a:hover{
+    color: green;
+}
+.video h4{
+    background: #609513 ;
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+}
+.side_search h4{
+    font-size: 17px;
+    color: blueviolet;
+    
+}
+form select{
+    width: 83%;
+    padding: 5px;
+    font-size: 13px;
+    border-radius: 3px;
+    background: rgb(241, 237, 237);
+    border: 1px solid #ddd;
+}
+form button{
+    padding: 5px;
+    font-size: 12px;
+    border-radius: 3px;
+    background: #ddd;
+    border: 1px solid rgb(186, 179, 179);
+}
+.side_iv h4{
+    background: #609513;
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+}
+.side_iv h5{
+    color: blueviolet;
+    font-size: 17px;
+    padding-top: 10px;
+}
+.side_iv h6{
+    color: blueviolet;
+    font-size: 15px;
+    padding-top: 15px;
+    
+}
+/* body end */
+/* footer start */
+.fb_left ul li a{
+    font-size: 12px;
+}
+.fb_left p{
+    font-size: 12px;
+    padding-left: 19px;
+}
+.fb_right p{
+    font-size: 11px;
+}
+/* footer end */
